@@ -6,7 +6,7 @@ Classification with machine-learning for mnist
 - python  3.6
 
 ## Preparation
-### Libraly
+### Library
 - scikit-learn
 
 Execute following commands for install library:
