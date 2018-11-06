@@ -11,7 +11,5 @@ Classification with machine-learning for mnist
 
 Execute following commands for install library:
 
-`conda install scikit-learn`  
-`conda install pandas`
-
-If you don't use anaconda, please replace `conda` to `pip`.
+`pip install scikit-learn`  
+`pip install pandas`
