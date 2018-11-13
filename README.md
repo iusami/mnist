@@ -8,8 +8,11 @@ Classification with machine-learning for mnist
 ## Preparation
 ### Library
 - scikit-learn
+- pandas
+- jupyter-notebook
 
 Execute following commands for install library:
 
 `pip install scikit-learn`  
-`pip install pandas`
+`pip install pandas`  
+`pip install jupyter` (It probably be already installed if you use anaconda.)
